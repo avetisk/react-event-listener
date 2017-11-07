@@ -12,7 +12,7 @@
 ## Installation
 
 ```sh
-yarn add react-event-listener
+npm install react-event-listener
 ```
 
 ## The problem solved
